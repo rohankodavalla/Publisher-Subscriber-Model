@@ -1,10 +1,9 @@
 # Publisher-Subscriber-Model
 
-COEN 6731 Winter 2023 Assignment Three
 
 **What is the Project About**
 This project is designed to practice pub/sub (publish/subscribe) message-oriented programming. It builds upon data collections created (in a previous project), using a public dataset from Kaggle that contains the average cost of undergraduate college by state. The project involves querying and processing various educational cost statistics, publishing these statistics to specific topics, and subscribing to these topics to consume the data.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Tools and Technologies Used**
 Programming Languages: Python, Java
 Frameworks and Libraries: RabbitMQ, pika (Python library for RabbitMQ)
@@ -53,6 +52,7 @@ The project code is organized with a pom.xml file for dependency management.
 
 
 
+COEN 6731 Winter 2023 Assignment Three
 Assignment -3 DSS
 
 was graded 100/100 
