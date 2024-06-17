@@ -8,11 +8,11 @@ This project is designed to practice pub/sub (publish/subscribe) message-oriente
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Tools and Technologies Used**
 
--Programming Languages: Python, Java
--Frameworks and Libraries: RabbitMQ, pika (Python library for RabbitMQ)
--Database: MongoDB (cloud service)
--Messaging Service: RabbitMQ
--Configuration Management: Configuration file for topic customization
+- Programming Languages: Java
+- Frameworks and Libraries: RabbitMQ, pika (Python library for RabbitMQ)
+- Database: MongoDB (cloud service)
+- Messaging Service: RabbitMQ
+- Configuration Management: Configuration file for topic customization
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Solution Explanation**
@@ -48,12 +48,12 @@ The project successfully demonstrates the implementation of a pub/sub message-or
 
 - Key outcomes include:
 
-Retrieval of datasets from MongoDB based on specified queries.
-Publishing of data to specific topics in RabbitMQ.
-Consumption of data from subscribed topics by the consumer.
-Screenshots and Documentation
-The final report includes screenshots documenting the solutions to Task 2.
-The project code is organized with a pom.xml file for dependency management.
+1. Retrieval of datasets from MongoDB based on specified queries.
+2. Publishing of data to specific topics in RabbitMQ.
+3. Consumption of data from subscribed topics by the consumer.
+4. Screenshots and Documentation
+5. The final report includes screenshots documenting the solutions to Task 2.
+6. The project code is organized with a pom.xml file for dependency management.
 
 
 
