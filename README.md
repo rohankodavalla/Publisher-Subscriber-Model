@@ -56,6 +56,7 @@ The project successfully demonstrates the implementation of a pub/sub message-or
 6. The project code is organized with a pom.xml file for dependency management.
 
 
+<img width="786" alt="Screenshot 2024-07-29 at 7 19 48 PM" src="https://github.com/user-attachments/assets/9bdcd681-3001-45cf-b029-7b495ccce9a5">
 
 
 
